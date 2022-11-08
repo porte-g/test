@@ -44,32 +44,6 @@
   "sequences" : [ {
     "canvases" : [ {
       "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10110846m/canvas/f1",
-      "label" : "TITITOTOTOTITITIT",
-      "height" : 3457,
-      "width" : 5575,
-      "images" : [ {
-        "motivation" : "sc:painting",
-        "on" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10110846m/canvas/f1",
-        "resource" : {
-          "format" : "image/jpeg",
-          "service" : {
-            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
-            "@context" : "http://iiif.io/api/image/1/context.json",
-            "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10110846m/f1"
-          },
-          "height" : 3457,
-          "width" : 5575,
-          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10110846m/f1/full/full/0/native.jpg",
-          "@type" : "dctypes:Image"
-        },
-        "@type" : "oa:Annotation"
-      } ],
-      "thumbnail" : {
-        "@id" : "https://gallica.bnf.fr/ark:/12148/btv1b10110846m/f1.thumbnail"
-      },
-      "@type" : "sc:Canvas"
-    }, {
-      "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10110846m/canvas/f0",
       "label" : "NP",
       "height" : 3457,
       "width" : 5575,
@@ -85,7 +59,7 @@
           },
           "height" : 3457,
           "width" : 5575,
-          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10110846m/f1/full/full/0/native.jpg",
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10110846m/f1/pct:0,0,50,100/full/0/native.jpg",
           "@type" : "dctypes:Image"
         },
         "@type" : "oa:Annotation"
